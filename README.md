@@ -1,5 +1,8 @@
 # Attention Head Perturbation Analysis
 
+#### Distribution of Contribution Scores
+![Contribution Distributions](images/contribution_distributions.png)
+
 ## Methodology
 
 ### Core Concept
@@ -63,6 +66,9 @@ class AttentionHeadNoiseHook:
 - No significant role in this specific task
 
 Check results and run logs at the results directory.
+
+#### Detailed Head-by-Head Analysis
+![Detailed Head Analysis](images/detailed_head_analysis.png)
 
 ### Impact Categories
 
